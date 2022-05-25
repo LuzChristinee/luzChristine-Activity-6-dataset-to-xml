@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE freshman-survey.csv [
+<!ELEMENT freshman-survey..csv (csv)>
+<!ELEMENT Moves (Survey, All_Bacc_Institutions, A_4_yr_Coll_Baccalaureate_Institutions, Universities_Baccalaureate_Institutions, Public_4_year_Colleges, Private_4_year_Colleges, Nonsec_4-year_Colleges, Catholic_4-year_Colleges, Oth_Relig_4-year_Colleges, Public_Universities,Private_Universities, All_HBCU)>
+
+<!ELEMENT Survey (#PCDATA)>
+<!ELEMENT All_Bacc_Institutions (#PCDATA)>
+<!ELEMENT A_4_yr_Coll_Baccalaureate_Institutions (#PCDATA)>
+<!ELEMENT Universities_Baccalaureate_Institutions (#PCDATA)>
+<!ELEMENT Public_4_year_Colleges (#PCDATA)>
+<!ELEMENT Private_4_year_Colleges (#PCDATA)>
+<!ELEMENT Nonsec_4-year_Colleges (#PCDATA)>
+<!ELEMENT Catholic_4-year_Colleges (#PCDATA)>
+<!ELEMENT Oth_Relig_4-year_Colleges (#PCDATA)>
+<!ELEMENT Public_Universities (#PCDATA)>
+<!ELEMENT Private_Universities (#PCDATA)>
+<!ELEMENT All_HBCU (#PCDATA)>
+
+
+
+<!ATTLIST csv row CDATA #REQUIRED>
+
+]>
+
+<freshman-survey..csv>
+
+	
+ 	<csv id = "row 294">
+ 		<Survey>Baptist</Survey>
+ 		<All_Bacc_Institutions>7.7</All_Bacc_Institutions>
+ 		<A_4_yr_Coll_Baccalaureate_Institutions>10.7</A_4_yr_Coll_Baccalaureate_Institutions>
+ 		<Universities_Baccalaureate_Institutions>4.6</Universities_Baccalaureate_Institutions>
+ 		<Public_4_year_Colleges>9.3</Public_4_year_Colleges>
+ 		<Private_4_year_Colleges>12.5</Private_4_year_Colleges>
+ 		<Nonsec_4-year_Colleges>9.5</Nonsec_4-year_Colleges>
+ 		<Catholic_4-year_Colleges>5.6</Catholic_4-year_Colleges>
+ 		<Oth_Relig_4-year_Colleges >18.8</Oth_Relig_4-year_Colleges>
+ 		<Public_Universities>4.5</Public_Universities>
+ 		<Private_Universities>4.9</Private_Universities>
+ 		<All_HBCU>46.4</All_HBCU>
+
+	</csv>
+
+	<csv id = "row 295">
+ 		<Survey>Buddhist</Survey>
+ 		<All_Bacc_Institutions>1.6</All_Bacc_Institutions>
+ 		<_4_yr_Coll_Baccalaureate_Institutions>1.4</_4_yr_Coll_Baccalaureate_Institutions>
+ 		<Universities_Baccalaureate_Institutions>1.8</Universities_Baccalaureate_Institutions>
+ 		<Public_4_year_Colleges>0.9</Public_4_year_Colleges>
+ 		<Private_4_year_Colleges>1.2</Private_4_year_Colleges>
+ 		<Nonsec_4-year_Colleges>0.8</Nonsec_4-year_Colleges>
+ 		<Catholic_4-year_Colleges>0.6</Catholic_4-year_Colleges>
+ 		<Oth_Relig_4-year_Colleges >1.9</Oth_Relig_4-year_Colleges>
+ 		<Public_Universities>1.5</Public_Universities>
+ 		<Private_Universities>0.5</Private_Universities>
+ 		<All_HBCU>0.4</All_HBCU>
+
+	</csv>
+
+	<csv id = "296">
+ 		<Survey>Church of Christ</Survey>
+ 		<All_Bacc_Institutions>6</All_Bacc_Institutions>
+ 		<A_4_yr_Coll_Baccalaureate_Institutions>7.3</A_4_yr_Coll_Baccalaureate_Institutions>
+ 		<Universities_Baccalaureate_Institutions>4.7</Universities_Baccalaureate_Institutions>
+ 		<Public_4_year_Colleges>8.2</Public_4_year_Colleges>
+ 		<Private_4_year_Colleges>6.1</Private_4_year_Colleges>
+ 		<Nonsec_4-year_Colleges>5.7</Nonsec_4-year_Colleges>
+ 		<Catholic_4-year_Colleges>5.5</Catholic_4-year_Colleges>
+ 		<Oth_Relig_4-year_Colleges >6.7</Oth_Relig_4-year_Colleges>
+ 		<Public_Universities>5.1</Public_Universities>
+ 		<Private_Universities>3.1</Private_Universities>
+ 		<All_HBCU>14.2</All_HBCU>
+
+
+
+	</csv>
+
+	<csv id = "row 297">
+		<Survey>Eastern Orthodox</Survey>
+ 		<All_Bacc_Institutions>0.8</All_Bacc_Institutions>
+ 		<A_4_yr_Coll_Baccalaureate_Institutions>0.6</A_4_yr_Coll_Baccalaureate_Institutions>
+ 		<Universities_Baccalaureate_Institutions>1</Universities_Baccalaureate_Institutions>
+ 		<Public_4_year_Colleges>0.7</Public_4_year_Colleges>
+ 		<Private_4_year_Colleges>0.6</Private_4_year_Colleges>
+ 		<Nonsec_4-year_Colleges>0.7</Nonsec_4-year_Colleges>
+ 		<Catholic_4-year_Colleges>0.6</Catholic_4-year_Colleges>
+ 		<Oth_Relig_4-year_Colleges >0.4</Oth_Relig_4-year_Colleges>
+ 		<Public_Universities>1</Public_Universities>
+ 		<Private_Universities>1.4</Private_Universities>
+ 		<All_HBCU>0.1</All_HBCU>
+
+
+
+	</csv>
+
+	<csv id = "row 298">
+		<Survey>Episcopalian</Survey>
+ 		<All_Bacc_Institutions>1.1</All_Bacc_Institutions>
+ 		<A_4_yr_Coll_Baccalaureate_Institutions>1.1</A_4_yr_Coll_Baccalaureate_Institutions>
+ 		<Universities_Baccalaureate_Institutions>1.1</Universities_Baccalaureate_Institutions>
+ 		<Public_4_year_Colleges>0.8</Public_4_year_Colleges>
+ 		<Private_4_year_Colleges>1.5</Private_4_year_Colleges>
+ 		<Nonsec_4-year_Colleges>1.8</Nonsec_4-year_Colleges>
+ 		<Catholic_4-year_Colleges>0.8</Catholic_4-year_Colleges>
+ 		<Oth_Relig_4-year_Colleges >1.4</Oth_Relig_4-year_Colleges>
+ 		<Public_Universities>0.9</Public_Universities>
+ 		<Private_Universities>1.9</Private_Universities>
+ 		<All_HBCU>0.4</All_HBCU>
+
+
+
+	</csv>
+
+	<csv id = "row 299">
+ 		<Survey>Hindu</Survey>
+ 		<All_Bacc_Institutions>1</All_Bacc_Institutions>
+ 		<A_4_yr_Coll_Baccalaureate_Institutions>0.4</A_4_yr_Coll_Baccalaureate_Institutions>
+ 		<Universities_Baccalaureate_Institutions>1.5</Universities_Baccalaureate_Institutions>
+ 		<Public_4_year_Colleges>0.4</Public_4_year_Colleges>
+ 		<Private_4_year_Colleges>0.5</Private_4_year_Colleges>
+ 		<Nonsec_4-year_Colleges>0.7</Nonsec_4-year_Colleges>
+ 		<Catholic_4-year_Colleges>0.4</Catholic_4-year_Colleges>
+ 		<Oth_Relig_4-year_Colleges >0.3</Oth_Relig_4-year_Colleges>
+ 		<Public_Universities>1.5</Public_Universities>
+ 		<Private_Universities>1.8</Private_Universities>
+ 		<All_HBCU>0.1</All_HBCU>
+
+
+	</csv>
+
+	<csv id = "300">
+ 		<Survey>Jewish</Survey>
+ 		<All_Bacc_Institutions>2.8</All_Bacc_Institutions>
+ 		<A_4_yr_Coll_Baccalaureate_Institutions>1.6</A_4_yr_Coll_Baccalaureate_Institutions>
+ 		<Universities_Baccalaureate_Institutions>4.2</Universities_Baccalaureate_Institutions>
+ 		<Public_4_year_Colleges>1.4</Public_4_year_Colleges>
+ 		<Private_4_year_Colleges>1.8</Private_4_year_Colleges>
+ 		<Nonsec_4-year_Colleges>3</Nonsec_4-year_Colleges>
+ 		<Catholic_4-year_Colleges>0.4</Catholic_4-year_Colleges>
+ 		<Oth_Relig_4-year_Colleges >1.3</Oth_Relig_4-year_Colleges>
+ 		<Public_Universities>3.8</Public_Universities>
+ 		<Private_Universities>5.6</Private_Universities>
+ 		<All_HBCU>0.1</All_HBCU>
+
+
+	</csv>
+
+	<csv id = "row 301">
+ 		<Survey>LDS (Mormon)</Survey>
+ 		<All_Bacc_Institutions>0.2</All_Bacc_Institutions>
+ 		<A_4_yr_Coll_Baccalaureate_Institutions>0.3</A_4_yr_Coll_Baccalaureate_Institutions>
+ 		<Universities_Baccalaureate_Institutions>0.2</Universities_Baccalaureate_Institutions>
+ 		<Public_4_year_Colleges>0.3</Public_4_year_Colleges>
+ 		<Private_4_year_Colleges>0.2</Private_4_year_Colleges>
+ 		<Nonsec_4-year_Colleges>0.2</Nonsec_4-year_Colleges>
+ 		<Catholic_4-year_Colleges>0.1</Catholic_4-year_Colleges>
+ 		<Oth_Relig_4-year_Colleges >0.2</Oth_Relig_4-year_Colleges>
+ 		<Public_Universities>0.3</Public_Universities>
+ 		<Private_Universities>0.1</Private_Universities>
+ 		<All_HBCU>0</All_HBCU>
+
+
+	</csv>
+
+	<csv id = "row 302">
+ 		<Survey>Lutheran</Survey>
+ 		<All_Bacc_Institutions>2.6</All_Bacc_Institutions>
+ 		<A_4_yr_Coll_Baccalaureate_Institutions>2.4</A_4_yr_Coll_Baccalaureate_Institutions>
+ 		<Universities_Baccalaureate_Institutions>2.9</Universities_Baccalaureate_Institutions>
+ 		<Public_4_year_Colleges>1.6</Public_4_year_Colleges>
+ 		<Private_4_year_Colleges>3.5</Private_4_year_Colleges>
+ 		<Nonsec_4-year_Colleges>2.4</Nonsec_4-year_Colleges>
+ 		<Catholic_4-year_Colleges>2.8</Catholic_4-year_Colleges>
+ 		<Oth_Relig_4-year_Colleges >5</Oth_Relig_4-year_Colleges>
+ 		<Public_Universities>3.1</Public_Universities>
+ 		<Private_Universities>1.9</Private_Universities>
+ 		<All_HBCU>0.2</All_HBCU>
+
+
+	</csv>
+
+	<csv id = "row 303">
+ 		<Survey>Methodist</Survey>
+ 		<All_Bacc_Institutions>3</All_Bacc_Institutions>
+ 		<A_4_yr_Coll_Baccalaureate_Institutions>3.2</A_4_yr_Coll_Baccalaureate_Institutions>
+ 		<Universities_Baccalaureate_Institutions>2.7</Universities_Baccalaureate_Institutions>
+ 		<Public_4_year_Colleges>2.5</Public_4_year_Colleges>
+ 		<Private_4_year_Colleges>4.3</Private_4_year_Colleges>
+ 		<Nonsec_4-year_Colleges>3.4</Nonsec_4-year_Colleges>
+ 		<Catholic_4-year_Colleges>1.7</Catholic_4-year_Colleges>
+ 		<Oth_Relig_4-year_Colleges >6.4</Oth_Relig_4-year_Colleges>
+ 		<Public_Universities>2.6</Public_Universities>
+ 		<Private_Universities>3</Private_Universities>
+ 		<All_HBCU>4.1</All_HBCU>
+
+
+	</csv>
+
+</freshman-survey..csv>
